@@ -39,3 +39,6 @@ Enter a movie name and click "Recommend" to see similar movies.
 
 ## 📚 Dataset
 TMDB Movie Dataset (Kaggle)
+## 📸 Output Screenshot
+
+![App Screenshot](output.png)
