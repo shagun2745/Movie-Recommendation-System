@@ -1,5 +1,3 @@
-# Movie-Recommendation-System
-Movie Recommendation System using Python, content-based filtering, and cosine similarity
 # 🎬 Movie Recommendation System
 
 A GUI-based Movie Recommendation System built using Python and Machine Learning.
@@ -16,4 +14,28 @@ A GUI-based Movie Recommendation System built using Python and Machine Learning.
 - Scikit-learn
 - Tkinter
 
-## 📂 Project Structure
+## 📁 Project Structure
+```
+main.py       - Core recommendation logic  
+app.py        - GUI application  
+movies.csv    - Dataset  
+README.md     - Project documentation  
+```
+
+## ▶️ How to Run
+
+1. Install required libraries:
+```
+pip install pandas scikit-learn numpy
+```
+
+2. Run the GUI:
+```
+python app.py
+```
+
+## 📸 Output
+Enter a movie name and click "Recommend" to see similar movies.
+
+## 📚 Dataset
+TMDB Movie Dataset (Kaggle)
